@@ -1,82 +1,59 @@
 <!-- "Hero" Header (Dark Mode) -->
 <div align="center" style="background:#0d1117; color:#c9d1d9; padding:20px;">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
+  <br /><br />
   <a href="https://github.com/YASSAGAMAL0">
     <img height="50" alt="My Name" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg" />
   </a>
-  <br />
-  <br />
+  <br /><br />
 </div>
 
 <!-- Social (Dark Mode) -->
 <table width="100%" align="center" style="background:#0d1117; color:#c9d1d9;">
 <tr>
-
-<!-- GitHub -->
 <td align="center">
 <a href="https://github.com/YASSAGAMAL0" style="color:#58a6ff;">
 <strong>My GitHub Profile</strong>
 <br /><br /><br />
-<p>
-<img alt="GitHub" height="80" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+<p><img alt="GitHub" height="80" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></p>
 </a>
-</p>
 </td>
 
-<!-- YouTube -->
 <td align="center">
 <a href="https://www.youtube.com/@YOUR_CHANNEL_HERE" style="color:#ff0000;">
 <strong>YouTube Channel</strong>
 <br /><br />
-<p>
-<img height="100" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif">
+<p><img height="100" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"></p>
 </a>
-</p>
 </td>
-
 </tr>
 
 <tr>
-
-<!-- Facebook -->
 <td align="center">
 <a href="https://www.facebook.com/yassa.gamal.273769" style="color:#1877f2;">
 <strong>Facebook</strong>
 <br /><br />
-<p>
-<img height="80" alt="Facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png">
+<p><img height="80" alt="Facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"></p>
 </a>
-</p>
 </td>
 
-<!-- Instagram -->
 <td align="center">
 <a href="https://www.instagram.com/yassa_gamall" style="color:#e1306c;">
 <strong>Instagram</strong>
 <br /><br />
-<p>
-<img height="80" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">
+<p><img height="80" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></p>
 </a>
-</p>
 </td>
-
 </tr>
 
 <tr>
-
-<!-- LinkedIn -->
 <td align="center" colspan="2">
 <a href="https://www.linkedin.com/in/yassa-gamalshawqy0-674b2125a" style="color:#0a66c2;">
 <strong>LinkedIn</strong>
 <br /><br />
-<p>
-<img height="80" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+<p><img height="80" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></p>
 </a>
-</p>
 </td>
-
 </tr>
 </table>
 
@@ -89,9 +66,7 @@
 ---
 
 <div align="center" style="margin-top:18px;">
-  
 # 🔧 Languages & Examples
-  
 </div>
 
 <table align="center" style="background:#0d1117; color:#c9d1d9; width:90%; margin-top:10px;">
@@ -125,70 +100,18 @@
     <a href="https://yassagamal0.github.io/examples/java.html" style="color:#58a6ff;">Open example</a>
   </td>
 </tr>
-
-<tr>
-  <td align="center" style="padding:12px;">
-    <strong>Python</strong>
-    <br />
-    <small>Scripting & AI</small>
-    <br /><br />
-    <a href="https://yassagamal0.github.io/examples/python.html" style="color:#58a6ff;">Open example</a>
-  </td>
-  <td align="center" style="padding:12px;">
-    <strong>JavaScript</strong>
-    <br />
-    <small>Web scripts</small>
-    <br /><br />
-    <a href="https://yassagamal0.github.io/examples/js.html" style="color:#58a6ff;">Open example</a>
-  </td>
-  <td align="center" style="padding:12px;">
-    <strong>HTML</strong>
-    <br />
-    <small>Web structure</small>
-    <br /><br />
-    <a href="https://yassagamal0.github.io/examples/html.html" style="color:#58a6ff;">Open example</a>
-  </td>
-  <td align="center" style="padding:12px;">
-    <strong>CSS</strong>
-    <br />
-    <small>Styling</small>
-    <br /><br />
-    <a href="https://yassagamal0.github.io/examples/css.html" style="color:#58a6ff;">Open example</a>
-  </td>
-</tr>
-
-<tr>
-  <td align="center" style="padding:12px;">
-    <strong>SQL</strong>
-    <br />
-    <small>Databases</small>
-    <br /><br />
-    <a href="https://yassagamal0.github.io/examples/sql.html" style="color:#58a6ff;">Open example</a>
-  </td>
-  <td align="center" style="padding:12px;">
-    <strong>PHP</strong>
-    <br />
-    <small>Server backend</small>
-    <br /><br />
-    <a href="https://yassagamal0.github.io/examples/php.html" style="color:#58a6ff;">Open example</a>
-  </td>
-</tr>
 </table>
 
 ---
 
 <div align="center" style="margin-top:18px;">
-  
 ## Quick start examples
-  
 </div>
 
 - **C** — hello_world.c  
 - **C++** — main.cpp  
 - **C#** — Program.cs  
 - **Java** — Main.java  
-- **Python** — script.py  
-- **JS** — index.js  
 
 ---
 
@@ -203,9 +126,7 @@
 <div align="center" style="background:#0d1117; color:#c9d1d9; padding:10px;">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-
 <img src="https://profile-counter.glitch.me/YASSAGAMAL0/count.svg" />
-
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
