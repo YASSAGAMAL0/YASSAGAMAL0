@@ -72,7 +72,7 @@
 <strong>LinkedIn</strong>
 <br /><br />
 <p>
-<img height="80" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+<img height="80" alt="LinkedIn" src="https://cdn-icons-png/flaticon.com/512/174/174857.png">
 </a>
 </p>
 </td>
@@ -89,7 +89,7 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://facebook.com/yassa.gamal.273769"><img width="24" src="https://avatars.githubusercontent.com/u/1?v=4" alt="User" /> Yassa Gamal</a> | Today | Welcome to my GitHub Profile! |
+| <a href="https://facebook.com/yassa.gamal.273769"><img width="40" src="/mnt/data/Yassa.jpg" alt="User" style="border-radius:50%;" /> Yassa Gamal</a> | Today | Welcome to my GitHub Profile! |
 
 <!-- Footer (Dark Mode) -->
 <div align="center" style="background:#0d1117; color:#c9d1d9; padding:10px;">
