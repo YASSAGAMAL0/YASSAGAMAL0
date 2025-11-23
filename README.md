@@ -72,7 +72,7 @@
 <strong>LinkedIn</strong>
 <br /><br />
 <p>
-<img height="80" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+<img height="80" alt="LinkedIn" src="https://cdn-icons-png/flaticon.com/512/174/174857.png">
 </a>
 </p>
 </td>
@@ -86,61 +86,10 @@
 </a> 
 </div>
 
-<!-- Languages -->
-<div align="center" style="margin-top:18px;">
-### 🔧 Languages & Examples
-</div>
-
-<table align="center" style="background:#0d1117; color:#c9d1d9; width:80%; margin-top:10px;">
-<tr>
-  <td align="center" style="padding:12px;">
-    <strong>C</strong>
-    <br />
-    <small>Classic systems & embedded code</small>
-    <br /><br />
-    <!-- Replace `LINK_TO_C_FOLDER` with your actual repo/folder link -->
-    <a href="https://github.com/YASSAGAMAL0?tab=repositories&q=C" style="color:#58a6ff;">View C projects</a>
-  </td>
-  <td align="center" style="padding:12px;">
-    <strong>C++</strong>
-    <br />
-    <small>OOP, STL, competitive programming</small>
-    <br /><br />
-    <a href="https://github.com/YASSAGAMAL0?tab=repositories&q=C%2B%2B" style="color:#58a6ff;">View C++ projects</a>
-  </td>
-  <td align="center" style="padding:12px;">
-    <strong>C#</strong>
-    <br />
-    <small>Desktop & Unity</small>
-    <br /><br />
-    <a href="https://github.com/YASSAGAMAL0?tab=repositories&q=C%23" style="color:#58a6ff;">View C# projects</a>
-  </td>
-  <td align="center" style="padding:12px;">
-    <strong>Java</strong>
-    <br />
-    <small>Android, backend, OOP</small>
-    <br /><br />
-    <a href="https://github.com/YASSAGAMAL0?tab=repositories&q=Java" style="color:#58a6ff;">View Java projects</a>
-  </td>
-</tr>
-</table>
-
-<!-- Quick language showcase (code links) -->
-<div align="center" style="margin-top:18px;">
-#### Quick start examples
-</div>
-
-- **C** — `hello_world.c` (gcc)
-- **C++** — `main.cpp` (g++)
-- **C#** — `Program.cs` (.NET / dotnet run)
-- **Java** — `Main.java` (javac -> java)
-
-> Tip: لو حابب أضيف ملفات مثال صغيرة (hello world لكل لغة) داخل فولدرات بالريبو — أكتب "ضيف أمثلة" وأنا أجهزهم لك جاهزين للرفع.
-
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| Yassa Gamal | Today | Welcome to my GitHub Profile! |
+| <a href="https://facebook.com/yassa.gamal.273769"><img width="40" src="/mnt/data/Yassa.jpg" alt="User" style="border-radius:50%;" /> Yassa Gamal</a> | Today | Welcome to my GitHub Profile! |
 
 <!-- Footer (Dark Mode) -->
 <div align="center" style="background:#0d1117; color:#c9d1d9; padding:10px;">
