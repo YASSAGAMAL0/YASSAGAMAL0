@@ -98,7 +98,6 @@
     <br />
     <small>Classic systems & embedded code</small>
     <br /><br />
-    <!-- Replace `LINK_TO_C_FOLDER` with your actual repo/folder link -->
     <a href="https://github.com/YASSAGAMAL0?tab=repositories&q=C" style="color:#58a6ff;">View C projects</a>
   </td>
   <td align="center" style="padding:12px;">
@@ -134,8 +133,6 @@
 - **C++** — `main.cpp` (g++)
 - **C#** — `Program.cs` (.NET / dotnet run)
 - **Java** — `Main.java` (javac -> java)
-
-> Tip: لو حابب أضيف ملفات مثال صغيرة (hello world لكل لغة) داخل فولدرات بالريبو — أكتب "ضيف أمثلة" وأنا أجهزهم لك جاهزين للرفع.
 
 <!-- Guestbook -->
 | Name | Date | Message |
