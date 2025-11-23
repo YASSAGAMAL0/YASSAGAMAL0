@@ -3,7 +3,9 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg" />
+  <a href="https://github.com/YASSAGAMAL0">
+    <img height="50" alt="My Name" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg" />
+  </a>
   <br />
   <br />
 </div>
