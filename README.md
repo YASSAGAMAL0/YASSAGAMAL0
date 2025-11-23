@@ -58,7 +58,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/YASSAGAMAL0/YASSAGAMAL0/issues/new">
+<a href="#guestbook">
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/guestbook.svg">
 </a> 
 </div>
@@ -76,49 +76,88 @@
     <br />
     <small>Classic systems & embedded code</small>
     <br /><br />
-    <a href="https://yassagamal0.github.io/examples/c.html" style="color:#58a6ff;">Open example</a>
+    <pre><code>#include &lt;stdio.h&gt;
+
+int main() {
+    printf("Hello World\n");
+    return 0;
+}
+</code></pre>
   </td>
   <td align="center" style="padding:12px;">
     <strong>C++</strong>
     <br />
     <small>OOP, STL, competitive programming</small>
     <br /><br />
-    <a href="https://yassagamal0.github.io/examples/cpp.html" style="color:#58a6ff;">Open example</a>
+    <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    cout &lt;&lt; "Hello World" &lt;&lt; endl;
+    return 0;
+}
+</code></pre>
   </td>
+</tr>
+
+<tr>
   <td align="center" style="padding:12px;">
     <strong>C#</strong>
     <br />
     <small>Desktop Apps & Unity</small>
     <br /><br />
-    <a href="https://yassagamal0.github.io/examples/cs.html" style="color:#58a6ff;">Open example</a>
+    <pre><code>using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("Hello World");
+    }
+}
+</code></pre>
   </td>
   <td align="center" style="padding:12px;">
     <strong>Java</strong>
     <br />
     <small>Android, backend</small>
     <br /><br />
-    <a href="https://yassagamal0.github.io/examples/java.html" style="color:#58a6ff;">Open example</a>
+    <pre><code>public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+</code></pre>
   </td>
 </tr>
 </table>
 
 ---
 
-<div align="center" style="margin-top:18px;">
-## Quick start examples
+<div id="guestbook" align="center" style="margin-top:18px;">
+## 📝 Guestbook
+<form id="guestForm">
+<input type="text" id="name" placeholder="Your Name" required>
+<input type="text" id="message" placeholder="Your Message" required>
+<button type="submit">Add Entry</button>
+</form>
+
+<h2>Entries:</h2>
+<ul id="entries"></ul>
 </div>
 
-- **C** — hello_world.c  
-- **C++** — main.cpp  
-- **C#** — Program.cs  
-- **Java** — Main.java  
+<script>
+const form = document.getElementById('guestForm');
+const entriesList = document.getElementById('entries');
 
----
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| **Yassa Gamal** | Today | Welcome to my GitHub Profile! |
+form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    const name = document.getElementById('name').value;
+    const message = document.getElementById('message').value;
+    const li = document.createElement('li');
+    li.textContent = name + ': ' + message;
+    entriesList.appendChild(li);
+    form.reset();
+});
+</script>
 
 ---
 
