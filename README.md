@@ -1,6 +1,6 @@
 <!-- "Hero" Header (Dark Mode) -->
-<div align="center" style="background:#0d1117; color:#c9d1d9; padding:20px marrrrrrrry;">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<div align="center" style="background:#0d1117; color:#c9d1d9; padding:20px;">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile MARYYYYYYYY" />
   <br />
   <br />
   <a href="https://github.com/YASSAGAMAL0">
