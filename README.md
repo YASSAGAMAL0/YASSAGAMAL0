@@ -4,7 +4,7 @@
   <br />
   <br />
   <a href="https://github.com/YASSAGAMAL0">
-    <img height="50" alt="My Name" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg" />
+    <img height="50" alt="My Name" src="https://github.com/BrunnerYassa Gamal/brunnerlivio/blob/master/images/personal_note.svg" />
   </a>
   <br />
   <br />
