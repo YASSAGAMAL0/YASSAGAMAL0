@@ -4,7 +4,7 @@
   <br />
   <br />
   <a href="https://github.com/YASSAGAMAL0">
-    <img height="50" alt="My Name" src="https://raw.githubusercontent.com/YASSAGAMAL0/YASSAGAMAL0/main/personal_note.svg" />
+    <img height="50" alt="My Name" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg" />
   </a>
   <br />
   <br />
@@ -129,10 +129,10 @@
 #### Quick start examples
 </div>
 
-- **C** — `hello_world.c` (gcc)
-- **C++** — `main.cpp` (g++)
-- **C#** — `Program.cs` (.NET / dotnet run)
-- **Java** — `Main.java` (javac -> java)
+- **C** — `hello_world.c` (gcc)  
+- **C++** — `main.cpp` (g++)  
+- **C#** — `Program.cs` (.NET / dotnet run)  
+- **Java** — `Main.java` (javac -> java)  
 
 <!-- Guestbook -->
 | Name | Date | Message |
