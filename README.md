@@ -1,10 +1,10 @@
-  <!-- "Hero" Header (Dark Mode) -->
+<!-- "Hero" Header (Dark Mode) -->
 <div align="center" style="background:#0d1117; color:#c9d1d9; padding:20px;">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <a href="https://github.com/YASSAGAMAL0">
-    <img height="50" alt="My Name" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/personal_note.svg" />
+    <img height="50" alt="My Name" src="https://raw.githubusercontent.com/YASSAGAMAL0/YASSAGAMAL0/main/personal_note.svg" />
   </a>
   <br />
   <br />
